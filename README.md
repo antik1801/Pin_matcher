@@ -9,4 +9,4 @@
 # Netlify Link:
 ```
 ```
-<img src="./ss/1.PNG" style="height: 250px; width: 100%">
+<img src="./ss/1.PNG" style="height: 350px; width: 100%">
