@@ -46,6 +46,7 @@ document.getElementById('verified-pin').addEventListener('click',function(){
     const pinFailed = document.getElementById('pin-failed');
     const pinSuccessMessage = document.getElementById('pin-success');
     if(displayPin === typedNumberField){
+
         pinFailed.style.display = 'none';
         pinSuccessMessage.style.display = 'block';
        
